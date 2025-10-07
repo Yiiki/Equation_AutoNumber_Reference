@@ -19,11 +19,11 @@ word里如何给公式自动连续编号
 
 
 在括号中输入：
-nginx复制编辑SEQ eq \* ARABIC
+nginx复制编辑SEQ eq \\* ARABIC
 
 
 
-然后选中 { SEQ eq \* ARABIC }，按 F9 更新域。
+然后选中 { SEQ eq \\* ARABIC }，按 F9 更新域。
 
 
 编号就会自动变为 (1)。
