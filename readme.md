@@ -19,7 +19,7 @@ word里如何给公式自动连续编号
 
 
 在括号中输入：
-nginx复制编辑SEQ eq \\* ARABIC
+SEQ eq \\* ARABIC
 
 
 
